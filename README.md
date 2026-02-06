@@ -1,6 +1,3 @@
-                                                                                                                                                                                          **Author**: Aditya Mishra
-
-
 # Smart-energy-Meter-ESP32
 ## ABSRACT
 In this project, prevention of power theft can be achieved through an IoT based smart electricity energy meter using ESP32 and real time monitor data on the Blynk application. With existing technology, the user needs to go to the energy-meter reading room and take down the readings. Thus, monitoring and keeping track records of the electricity consumption is a tedious task. This can be automated, thus saving time and money by automating remote data collection.
@@ -68,3 +65,5 @@ This chapter projects the analysis and discussion of results and findings during
 A preview to the entirety of this project establishes the essence and need for embedded systems towards technological advancement.
 
 The IOT based Smart Energy Meter is the anti-theft detection system. Even if theft is caught, the victim cannot get back their valuable belongings. That is why it is clear that ‘prevention is better than cure’. It is easier to stop something happening in the first place than to repair the damage after it has happened. By using this technique, crime of stealing power may be brought to an end and thereby a new bloom may be expected in the economy of our motherland and also there will be less scarcity for power utilization. 
+
+**Author**: Aditya Mishra
